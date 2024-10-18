@@ -1,0 +1,5 @@
+This is a text to test if i can open a file
+read whats inside the file given
+replace words/strings in the given file
+and put it into a new file with the
+filename <filename>.replace.
